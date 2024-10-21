@@ -102,7 +102,7 @@ properties:
             # DMARD10: Acelerómetro de 3 ejes utilizado en dispositivos médicos para monitorear movimiento de pacientes.
           - domintech,dmard10
             # MMA7660FC: 3-Axis Orientation/Motion Detection Sensor
-          - fsl,mma7660
+          - fsl,mma7660 markel ha estado aqui
             # MMA8450Q: Xtrinsic Low-power, 3-axis Xtrinsic Accelerometer
           - fsl,mma8450
             # MPL3115: Absolute Digital Pressure Sensor
